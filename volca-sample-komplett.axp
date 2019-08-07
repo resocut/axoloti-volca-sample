@@ -1,0 +1,2340 @@
+<patch-1.0 appVersion="1.0.12">
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_3" x="0" y="0">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_1" x="112" y="0">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_5" x="252" y="0">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="50"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_3" x="364" y="0">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_8" x="504" y="0">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="53"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_8" x="616" y="0">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_7" x="756" y="0">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="52"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_5" x="868" y="0">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_11" x="1008" y="0">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="56"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_9" x="1120" y="0">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_4" x="0" y="98">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="49"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_2" x="112" y="98">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_6" x="252" y="98">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="51"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_4" x="364" y="98">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_9" x="504" y="98">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="54"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_6" x="616" y="98">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_10" x="756" y="98">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="55"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_7" x="868" y="98">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/keyb note" uuid="ac0cd98e6c0373b7be73d25900342a62ebcf5f" name="keyb_12" x="1008" y="98">
+      <params/>
+      <attribs>
+         <spinner attributeName="note" value="57"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/note" uuid="a76ae870da278cbbce5501a57ce7bd0e0ea4215c" name="note_10" x="1120" y="112">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_6" x="252" y="238">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="1"/>
+         <spinner attributeName="default" value="1"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start" x="350" y="238">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_7" x="504" y="238">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="2"/>
+         <spinner attributeName="default" value="2"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length" x="602" y="238">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_8" x="756" y="238">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="3"/>
+         <spinner attributeName="default" value="3"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut" x="854" y="238">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_13" x="1092" y="238">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="12"/>
+         <spinner attributeName="default" value="12"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start_" x="1190" y="238">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_14" x="1344" y="238">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="13"/>
+         <spinner attributeName="default" value="13"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length_" x="1442" y="238">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_15" x="1596" y="238">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="14"/>
+         <spinner attributeName="default" value="14"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut_" x="1694" y="238">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_9" x="14" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="4"/>
+         <spinner attributeName="default" value="4"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)" x="112" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_10" x="252" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="5"/>
+         <spinner attributeName="default" value="5"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int" x="350" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_11" x="504" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="6"/>
+         <spinner attributeName="default" value="6"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack" x="602" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_12" x="756" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="7"/>
+         <spinner attributeName="default" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay" x="854" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_16" x="1092" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="15"/>
+         <spinner attributeName="default" value="15"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)_" x="1190" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_17" x="1330" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="16"/>
+         <spinner attributeName="default" value="16"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int_" x="1428" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_18" x="1582" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="17"/>
+         <spinner attributeName="default" value="17"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack_" x="1680" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_19" x="1834" y="364">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="18"/>
+         <spinner attributeName="default" value="18"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay_" x="1932" y="364">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_1" x="14" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="8"/>
+         <spinner attributeName="default" value="8"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level" x="112" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_2" x="252" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="9"/>
+         <spinner attributeName="default" value="9"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN" x="350" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_3" x="504" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="10"/>
+         <spinner attributeName="default" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack" x="602" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_4" x="756" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="11"/>
+         <spinner attributeName="default" value="11"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp" x="854" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="1"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <patchobj type="patch/object" uuid="a40cabc5-eba7-4122-87db-087e4361a45d" name="object_1" x="854" y="490">
+      <params/>
+      <attribs/>
+      <object id="patch/object" uuid="a40cabc5-eba7-4122-87db-087e4361a45d">
+         <inlets/>
+         <outlets/>
+         <displays/>
+         <params/>
+         <attribs/>
+         <includes/>
+      </object>
+   </patchobj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_5" x="1092" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="19"/>
+         <spinner attributeName="default" value="19"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level_" x="1190" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_20" x="1330" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="20"/>
+         <spinner attributeName="default" value="20"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN_" x="1428" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_21" x="1582" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="21"/>
+         <spinner attributeName="default" value="21"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack_" x="1680" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_22" x="1834" y="490">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="22"/>
+         <spinner attributeName="default" value="22"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp_" x="1932" y="490">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="2"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_23" x="14" y="630">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="23"/>
+         <spinner attributeName="default" value="23"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start__" x="112" y="630">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_24" x="266" y="630">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="24"/>
+         <spinner attributeName="default" value="24"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length__" x="364" y="630">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_25" x="518" y="630">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="25"/>
+         <spinner attributeName="default" value="25"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut__" x="616" y="630">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_34" x="1092" y="630">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="34"/>
+         <spinner attributeName="default" value="34"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start___" x="1190" y="630">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_35" x="1344" y="630">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="35"/>
+         <spinner attributeName="default" value="35"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length___" x="1442" y="630">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_36" x="1596" y="630">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="36"/>
+         <spinner attributeName="default" value="36"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut___" x="1694" y="630">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_26" x="14" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="26"/>
+         <spinner attributeName="default" value="26"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)__" x="112" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_27" x="252" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="27"/>
+         <spinner attributeName="default" value="27"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int__" x="350" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_28" x="504" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="28"/>
+         <spinner attributeName="default" value="28"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack__" x="602" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_29" x="756" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="29"/>
+         <spinner attributeName="default" value="29"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay__" x="854" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_37" x="1092" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="37"/>
+         <spinner attributeName="default" value="37"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)___" x="1190" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_38" x="1330" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="38"/>
+         <spinner attributeName="default" value="38"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int___" x="1428" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_39" x="1582" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="39"/>
+         <spinner attributeName="default" value="39"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack___" x="1680" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_40" x="1834" y="756">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="40"/>
+         <spinner attributeName="default" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay___" x="1932" y="756">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_30" x="14" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="30"/>
+         <spinner attributeName="default" value="30"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level__" x="112" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_31" x="252" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="31"/>
+         <spinner attributeName="default" value="31"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN__" x="350" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_32" x="504" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="32"/>
+         <spinner attributeName="default" value="32"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack__" x="602" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_33" x="756" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="33"/>
+         <spinner attributeName="default" value="33"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp__" x="854" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="3"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_41" x="1092" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="41"/>
+         <spinner attributeName="default" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level___" x="1190" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_42" x="1330" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="42"/>
+         <spinner attributeName="default" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN___" x="1428" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_43" x="1582" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="43"/>
+         <spinner attributeName="default" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack___" x="1680" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_44" x="1834" y="882">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="44"/>
+         <spinner attributeName="default" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp___" x="1932" y="882">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="4"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_45" x="14" y="1008">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="45"/>
+         <spinner attributeName="default" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start____" x="112" y="1008">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_46" x="266" y="1008">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="46"/>
+         <spinner attributeName="default" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length____" x="364" y="1008">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_47" x="518" y="1008">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="47"/>
+         <spinner attributeName="default" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut____" x="616" y="1008">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_56" x="1106" y="1022">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="56"/>
+         <spinner attributeName="default" value="56"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start_____" x="1204" y="1022">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_57" x="1358" y="1022">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="57"/>
+         <spinner attributeName="default" value="57"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length_____" x="1456" y="1022">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_58" x="1610" y="1022">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="58"/>
+         <spinner attributeName="default" value="58"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut_____" x="1708" y="1022">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_48" x="14" y="1134">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="48"/>
+         <spinner attributeName="default" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)____" x="112" y="1134">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_49" x="252" y="1134">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="49"/>
+         <spinner attributeName="default" value="49"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int____" x="350" y="1134">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_50" x="504" y="1134">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="50"/>
+         <spinner attributeName="default" value="50"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack____" x="602" y="1134">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_51" x="756" y="1134">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="51"/>
+         <spinner attributeName="default" value="51"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay____" x="854" y="1134">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_59" x="1106" y="1148">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="59"/>
+         <spinner attributeName="default" value="59"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)_____" x="1204" y="1148">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_60" x="1344" y="1148">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="60"/>
+         <spinner attributeName="default" value="60"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int_____" x="1442" y="1148">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_61" x="1596" y="1148">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="61"/>
+         <spinner attributeName="default" value="61"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack_____" x="1694" y="1148">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_62" x="1848" y="1148">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="62"/>
+         <spinner attributeName="default" value="62"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay_____" x="1946" y="1148">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_52" x="14" y="1260">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="52"/>
+         <spinner attributeName="default" value="52"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level____" x="112" y="1260">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_53" x="252" y="1260">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="53"/>
+         <spinner attributeName="default" value="53"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN____" x="350" y="1260">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_54" x="504" y="1260">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="54"/>
+         <spinner attributeName="default" value="54"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack____" x="602" y="1260">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_55" x="756" y="1260">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="55"/>
+         <spinner attributeName="default" value="55"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp____" x="854" y="1260">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="5"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_63" x="1106" y="1274">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="63"/>
+         <spinner attributeName="default" value="63"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level_____" x="1204" y="1274">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_64" x="1344" y="1274">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="64"/>
+         <spinner attributeName="default" value="64"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN_____" x="1442" y="1274">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_65" x="1596" y="1274">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="65"/>
+         <spinner attributeName="default" value="65"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack_____" x="1694" y="1274">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_66" x="1848" y="1274">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="66"/>
+         <spinner attributeName="default" value="66"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp_____" x="1946" y="1274">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="6"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_67" x="14" y="1386">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="67"/>
+         <spinner attributeName="default" value="67"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start______" x="112" y="1386">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_68" x="266" y="1386">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="68"/>
+         <spinner attributeName="default" value="68"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length______" x="364" y="1386">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_69" x="518" y="1386">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="69"/>
+         <spinner attributeName="default" value="69"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut______" x="616" y="1386">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_78" x="1120" y="1442">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="78"/>
+         <spinner attributeName="default" value="78"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start_______" x="1218" y="1442">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_79" x="1372" y="1442">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="79"/>
+         <spinner attributeName="default" value="79"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length_______" x="1470" y="1442">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_80" x="1624" y="1442">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="80"/>
+         <spinner attributeName="default" value="80"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut_______" x="1722" y="1442">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_70" x="14" y="1512">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="70"/>
+         <spinner attributeName="default" value="70"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)______" x="112" y="1512">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_71" x="252" y="1512">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="71"/>
+         <spinner attributeName="default" value="71"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int______" x="350" y="1512">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_72" x="504" y="1512">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="72"/>
+         <spinner attributeName="default" value="72"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack______" x="602" y="1512">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_73" x="756" y="1512">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="73"/>
+         <spinner attributeName="default" value="73"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay______" x="854" y="1512">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_81" x="1120" y="1568">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="81"/>
+         <spinner attributeName="default" value="81"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)_______" x="1218" y="1568">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_82" x="1358" y="1568">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="82"/>
+         <spinner attributeName="default" value="82"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int_______" x="1456" y="1568">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_83" x="1610" y="1568">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="83"/>
+         <spinner attributeName="default" value="83"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack_______" x="1708" y="1568">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_84" x="1862" y="1568">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="84"/>
+         <spinner attributeName="default" value="84"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay_______" x="1960" y="1568">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_74" x="14" y="1638">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="74"/>
+         <spinner attributeName="default" value="74"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level______" x="112" y="1638">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_75" x="252" y="1638">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="75"/>
+         <spinner attributeName="default" value="75"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN______" x="350" y="1638">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_76" x="504" y="1638">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="76"/>
+         <spinner attributeName="default" value="76"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack______" x="602" y="1638">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_77" x="756" y="1638">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="77"/>
+         <spinner attributeName="default" value="77"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp______" x="854" y="1638">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="7"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_85" x="1120" y="1694">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="85"/>
+         <spinner attributeName="default" value="85"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level_______" x="1218" y="1694">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_86" x="1358" y="1694">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="86"/>
+         <spinner attributeName="default" value="86"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN_______" x="1456" y="1694">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_87" x="1610" y="1694">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="87"/>
+         <spinner attributeName="default" value="87"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack_______" x="1708" y="1694">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_88" x="1862" y="1694">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="88"/>
+         <spinner attributeName="default" value="88"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp_______" x="1960" y="1694">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="8"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_89" x="14" y="1848">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="89"/>
+         <spinner attributeName="default" value="89"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start________" x="112" y="1848">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_90" x="266" y="1848">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="90"/>
+         <spinner attributeName="default" value="90"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length________" x="364" y="1848">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_91" x="518" y="1848">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="91"/>
+         <spinner attributeName="default" value="91"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut________" x="616" y="1848">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_100" x="1162" y="1932">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="100"/>
+         <spinner attributeName="default" value="100"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sample Start_________" x="1260" y="1932">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="40"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_101" x="1414" y="1932">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="101"/>
+         <spinner attributeName="default" value="101"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Sampel Length_________" x="1512" y="1932">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="41"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_102" x="1666" y="1932">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="102"/>
+         <spinner attributeName="default" value="102"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="HiCut_________" x="1764" y="1932">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="42"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_92" x="14" y="1974">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="92"/>
+         <spinner attributeName="default" value="92"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)________" x="112" y="1974">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_93" x="252" y="1974">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="93"/>
+         <spinner attributeName="default" value="93"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int________" x="350" y="1974">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_94" x="504" y="1974">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="94"/>
+         <spinner attributeName="default" value="94"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack________" x="602" y="1974">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_95" x="756" y="1974">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="95"/>
+         <spinner attributeName="default" value="95"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay________" x="854" y="1974">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_103" x="1162" y="2058">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="103"/>
+         <spinner attributeName="default" value="103"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Speed (Pitch)_________" x="1260" y="2058">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="43"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_104" x="1400" y="2058">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="104"/>
+         <spinner attributeName="default" value="104"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Int_________" x="1498" y="2058">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="44"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_105" x="1652" y="2058">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="105"/>
+         <spinner attributeName="default" value="105"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Attack_________" x="1750" y="2058">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="45"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_106" x="1904" y="2058">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="106"/>
+         <spinner attributeName="default" value="106"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Pitch EG Decay_________" x="2002" y="2058">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="46"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_96" x="14" y="2100">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="96"/>
+         <spinner attributeName="default" value="96"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level________" x="112" y="2100">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_97" x="252" y="2100">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="97"/>
+         <spinner attributeName="default" value="97"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN________" x="350" y="2100">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_98" x="504" y="2100">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="98"/>
+         <spinner attributeName="default" value="98"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack________" x="602" y="2100">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_99" x="756" y="2100">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="99"/>
+         <spinner attributeName="default" value="99"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp________" x="854" y="2100">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="9"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_107" x="1162" y="2184">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="107"/>
+         <spinner attributeName="default" value="107"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Level_________" x="1260" y="2184">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="7"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_108" x="1400" y="2184">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="108"/>
+         <spinner attributeName="default" value="108"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="PAN_________" x="1498" y="2184">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="10"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_109" x="1652" y="2184">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="109"/>
+         <spinner attributeName="default" value="109"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Attack_________" x="1750" y="2184">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="47"/>
+      </attribs>
+   </obj>
+   <obj type="midi/in/cc" uuid="6096d217701cbdf251a9ab6ba029af78c5722a56" name="cc_110" x="1904" y="2184">
+      <params/>
+      <attribs>
+         <spinner attributeName="cc" value="110"/>
+         <spinner attributeName="default" value="110"/>
+      </attribs>
+   </obj>
+   <obj type="midi/out/cc thin" uuid="5255b30d60e50223ed41179d8ce935ba9464de75" name="Amp EG Decay____tmp_________" x="2002" y="2184">
+      <params/>
+      <attribs>
+         <combo attributeName="device" selection="din"/>
+         <spinner attributeName="channel" value="10"/>
+         <spinner attributeName="cc" value="48"/>
+      </attribs>
+   </obj>
+   <nets>
+      <net>
+         <source obj="keyb_4" outlet="gate"/>
+         <dest obj="note_2" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_4" outlet="velocity"/>
+         <dest obj="note_2" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_5" outlet="gate"/>
+         <dest obj="note_3" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_5" outlet="velocity"/>
+         <dest obj="note_3" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_6" outlet="gate"/>
+         <dest obj="note_4" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_6" outlet="velocity"/>
+         <dest obj="note_4" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_7" outlet="gate"/>
+         <dest obj="note_5" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_7" outlet="velocity"/>
+         <dest obj="note_5" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_8" outlet="gate"/>
+         <dest obj="note_8" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_8" outlet="velocity"/>
+         <dest obj="note_8" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_9" outlet="gate"/>
+         <dest obj="note_6" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_9" outlet="velocity"/>
+         <dest obj="note_6" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_10" outlet="gate"/>
+         <dest obj="note_7" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_10" outlet="velocity"/>
+         <dest obj="note_7" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_11" outlet="gate"/>
+         <dest obj="note_9" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_11" outlet="velocity"/>
+         <dest obj="note_9" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_12" outlet="gate"/>
+         <dest obj="note_10" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_12" outlet="velocity"/>
+         <dest obj="note_10" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="keyb_3" outlet="gate"/>
+         <dest obj="note_1" inlet="trig"/>
+      </net>
+      <net>
+         <source obj="keyb_3" outlet="velocity"/>
+         <dest obj="note_1" inlet="velo"/>
+      </net>
+      <net>
+         <source obj="cc_6" outlet="midiCC"/>
+         <dest obj="Sample Start" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_7" outlet="midiCC"/>
+         <dest obj="Sampel Length" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_8" outlet="midiCC"/>
+         <dest obj="HiCut" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_9" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_10" outlet="midiCC"/>
+         <dest obj="Pitch EG Int" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_11" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_12" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_1" outlet="midiCC"/>
+         <dest obj="Level" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_2" outlet="midiCC"/>
+         <dest obj="PAN" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_3" outlet="midiCC"/>
+         <dest obj="Amp EG Attack" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_4" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_13" outlet="midiCC"/>
+         <dest obj="Sample Start_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_14" outlet="midiCC"/>
+         <dest obj="Sampel Length_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_15" outlet="midiCC"/>
+         <dest obj="HiCut_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_16" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_17" outlet="midiCC"/>
+         <dest obj="Pitch EG Int_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_18" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_19" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_5" outlet="midiCC"/>
+         <dest obj="Level_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_20" outlet="midiCC"/>
+         <dest obj="PAN_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_21" outlet="midiCC"/>
+         <dest obj="Amp EG Attack_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_22" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp_" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_23" outlet="midiCC"/>
+         <dest obj="Sample Start__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_24" outlet="midiCC"/>
+         <dest obj="Sampel Length__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_25" outlet="midiCC"/>
+         <dest obj="HiCut__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_26" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_27" outlet="midiCC"/>
+         <dest obj="Pitch EG Int__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_28" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_29" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_30" outlet="midiCC"/>
+         <dest obj="Level__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_31" outlet="midiCC"/>
+         <dest obj="PAN__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_32" outlet="midiCC"/>
+         <dest obj="Amp EG Attack__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_33" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp__" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_34" outlet="midiCC"/>
+         <dest obj="Sample Start___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_35" outlet="midiCC"/>
+         <dest obj="Sampel Length___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_36" outlet="midiCC"/>
+         <dest obj="HiCut___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_37" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_38" outlet="midiCC"/>
+         <dest obj="Pitch EG Int___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_39" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_40" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_41" outlet="midiCC"/>
+         <dest obj="Level___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_42" outlet="midiCC"/>
+         <dest obj="PAN___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_43" outlet="midiCC"/>
+         <dest obj="Amp EG Attack___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_44" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp___" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_45" outlet="midiCC"/>
+         <dest obj="Sample Start____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_46" outlet="midiCC"/>
+         <dest obj="Sampel Length____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_47" outlet="midiCC"/>
+         <dest obj="HiCut____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_48" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_49" outlet="midiCC"/>
+         <dest obj="Pitch EG Int____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_50" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_51" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_52" outlet="midiCC"/>
+         <dest obj="Level____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_53" outlet="midiCC"/>
+         <dest obj="PAN____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_54" outlet="midiCC"/>
+         <dest obj="Amp EG Attack____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_55" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_56" outlet="midiCC"/>
+         <dest obj="Sample Start_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_57" outlet="midiCC"/>
+         <dest obj="Sampel Length_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_58" outlet="midiCC"/>
+         <dest obj="HiCut_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_59" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_60" outlet="midiCC"/>
+         <dest obj="Pitch EG Int_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_61" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_62" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_63" outlet="midiCC"/>
+         <dest obj="Level_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_64" outlet="midiCC"/>
+         <dest obj="PAN_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_65" outlet="midiCC"/>
+         <dest obj="Amp EG Attack_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_66" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp_____" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_67" outlet="midiCC"/>
+         <dest obj="Sample Start______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_68" outlet="midiCC"/>
+         <dest obj="Sampel Length______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_69" outlet="midiCC"/>
+         <dest obj="HiCut______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_70" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_71" outlet="midiCC"/>
+         <dest obj="Pitch EG Int______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_72" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_73" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_74" outlet="midiCC"/>
+         <dest obj="Level______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_75" outlet="midiCC"/>
+         <dest obj="PAN______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_76" outlet="midiCC"/>
+         <dest obj="Amp EG Attack______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_77" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_78" outlet="midiCC"/>
+         <dest obj="Sample Start_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_79" outlet="midiCC"/>
+         <dest obj="Sampel Length_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_80" outlet="midiCC"/>
+         <dest obj="HiCut_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_81" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_82" outlet="midiCC"/>
+         <dest obj="Pitch EG Int_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_83" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_84" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_85" outlet="midiCC"/>
+         <dest obj="Level_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_86" outlet="midiCC"/>
+         <dest obj="PAN_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_87" outlet="midiCC"/>
+         <dest obj="Amp EG Attack_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_88" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp_______" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_89" outlet="midiCC"/>
+         <dest obj="Sample Start________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_90" outlet="midiCC"/>
+         <dest obj="Sampel Length________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_91" outlet="midiCC"/>
+         <dest obj="HiCut________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_92" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_93" outlet="midiCC"/>
+         <dest obj="Pitch EG Int________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_94" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_95" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_96" outlet="midiCC"/>
+         <dest obj="Level________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_97" outlet="midiCC"/>
+         <dest obj="PAN________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_98" outlet="midiCC"/>
+         <dest obj="Amp EG Attack________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_99" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_100" outlet="midiCC"/>
+         <dest obj="Sample Start_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_101" outlet="midiCC"/>
+         <dest obj="Sampel Length_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_102" outlet="midiCC"/>
+         <dest obj="HiCut_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_103" outlet="midiCC"/>
+         <dest obj="Speed (Pitch)_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_104" outlet="midiCC"/>
+         <dest obj="Pitch EG Int_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_105" outlet="midiCC"/>
+         <dest obj="Pitch EG Attack_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_106" outlet="midiCC"/>
+         <dest obj="Pitch EG Decay_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_107" outlet="midiCC"/>
+         <dest obj="Level_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_108" outlet="midiCC"/>
+         <dest obj="PAN_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_109" outlet="midiCC"/>
+         <dest obj="Amp EG Attack_________" inlet="v"/>
+      </net>
+      <net>
+         <source obj="cc_110" outlet="midiCC"/>
+         <dest obj="Amp EG Decay____tmp_________" inlet="v"/>
+      </net>
+   </nets>
+   <settings>
+      <subpatchmode>no</subpatchmode>
+   </settings>
+   <notes><![CDATA[Notes 48 - 57
+
+CCs:
+
+1 - 11
+12 - 22
+23 - 33
+34 - 44
+45 - 55
+56 - 66
+67 - 77
+78 - 88
+89 - 99
+100 - 110
+]]></notes>
+   <windowPos>
+      <x>0</x>
+      <y>23</y>
+      <width>1440</width>
+      <height>877</height>
+   </windowPos>
+</patch-1.0>
